@@ -90,6 +90,7 @@ class CameraViewController: UIViewController {
         
         let completionHandler : (NSError?, [String : AnyObject]?) -> Void = {(error, result) in
             self.cameraView.pauseFR()
+            self.error = error
             self.showAlertView(error: error, result: result)
             
             if(self.mode == .CAPTURE){
@@ -219,6 +220,7 @@ class CameraViewController: UIViewController {
             if(error.code != 1 && error.code != 2){
                 cameraView.resumeFR()
             }
+            
         }else{
             cameraView.resumeFR()
         }

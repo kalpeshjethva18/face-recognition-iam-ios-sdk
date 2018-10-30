@@ -6,31 +6,31 @@
 	<dict>
 		<key>Headers/HyperSecureSDK-Swift.h</key>
 		<data>
-		Nm3yDDBEAwzq1R7cWoU2/ARw/jY=
+		XB5Frc7pLh/clNrDvvSmJo+ZwU0=
 		</data>
 		<key>Headers/HyperSecureSDK.h</key>
 		<data>
-		Zu/iudp+Ok0c0/nTTzuWDz4VjlM=
+		DmuslECE+UyXnBsbR3n8EmaCeYA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cITNbEdkAoAY5TRUraYUD2hbgtM=
+		SQiDWjuE5Z21i313SoHMcWpb3is=
 		</data>
 		<key>Modules/HyperSecureSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
-		gyq15gr/Yr83wwAfhdbloRdViYY=
+		ns8YthyNE2G5ye87OJS/FeGQ7vU=
 		</data>
 		<key>Modules/HyperSecureSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		57dQ/3n/UFu1nd7NAArRGGIjOUo=
+		s/jxkGhv+Nr/pAAF+XtjS12iRTE=
 		</data>
 		<key>Modules/HyperSecureSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		xABd9YfUYjvTaZP+I78LaScSzII=
+		lz00U4UjluFPrHfsfFCFvX3sRNc=
 		</data>
 		<key>Modules/HyperSecureSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		bVArlGG1gJVIqVPPD4M+CosOHzQ=
+		vKOdDALfTs7NmiTeXTF0L1nvb1g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,66 +43,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Nm3yDDBEAwzq1R7cWoU2/ARw/jY=
+			XB5Frc7pLh/clNrDvvSmJo+ZwU0=
 			</data>
 			<key>hash2</key>
 			<data>
-			yreg6FQQw+QCDRJiLK+u/Gavui2teXvzfFdX2Xo97tM=
+			3aA3/xloX9EU9dgUcdt441inc0TtJC4Sl3xIDKH/XWc=
 			</data>
 		</dict>
 		<key>Headers/HyperSecureSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zu/iudp+Ok0c0/nTTzuWDz4VjlM=
+			DmuslECE+UyXnBsbR3n8EmaCeYA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nNzIEzs/tHyrsRTxvgTpz0Oo9+qPVIcpRSGS8IHZHKI=
+			4DhLWoCgta4TNTJUTns9PfzsIhdy2ihqAThDzAm0REc=
 			</data>
 		</dict>
 		<key>Modules/HyperSecureSDK.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gyq15gr/Yr83wwAfhdbloRdViYY=
+			ns8YthyNE2G5ye87OJS/FeGQ7vU=
 			</data>
 			<key>hash2</key>
 			<data>
-			8LZu/VMtqm1L7EzcoekxjIsmV/3B8ndJ4AKGwIRuJGg=
+			JidEAi8QUeZHy05wubmpN3pZsiVsI0rNiBWDCbp8p/U=
 			</data>
 		</dict>
 		<key>Modules/HyperSecureSDK.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			57dQ/3n/UFu1nd7NAArRGGIjOUo=
+			s/jxkGhv+Nr/pAAF+XtjS12iRTE=
 			</data>
 			<key>hash2</key>
 			<data>
-			xbOqv3Eek0nodhv/SeD5mqNDysedABjvBk9MFqO9EW4=
+			xiLep/6bWQS+7hBexFP4uzYj29yvzEKbnFZhM9EGGCU=
 			</data>
 		</dict>
 		<key>Modules/HyperSecureSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xABd9YfUYjvTaZP+I78LaScSzII=
+			lz00U4UjluFPrHfsfFCFvX3sRNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			T4T4haq0N/lueCe2jmHnE7XWSuY46OuS4EU37HjidnM=
+			gYKKSfosL4jrYxWx4Am11eTNmed9hLPw77x465ia0ZI=
 			</data>
 		</dict>
 		<key>Modules/HyperSecureSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bVArlGG1gJVIqVPPD4M+CosOHzQ=
+			vKOdDALfTs7NmiTeXTF0L1nvb1g=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wd2NvP3sKa6GAz8hICS/2r3wf5yrBtEVsLQ6lN8B7mg=
+			fnzHfkyj8Met7bb7Z6yXipYQFAdbHxQDwSUljiAFpM8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -119,7 +119,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -150,24 +150,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -203,13 +191,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>

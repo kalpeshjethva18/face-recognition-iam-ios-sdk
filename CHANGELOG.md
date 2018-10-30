@@ -1,3 +1,12 @@
+#### Version 1.2.0
+- Support moved to Xcode 10.0
+
+#### Version 1.1.1
+
+##### Bugs fixed:
+- Issue with network calls getting cancelled when multiple generic requests are made.
+
+
 #### Version 1.1.0
 
 ##### Bugs fixed: 
@@ -14,7 +23,4 @@
 - Error codes 623 and 624 added.
 
 
-#### Version 1.1.1
 
-##### Bugs fixed:
-- Issue with network calls getting cancelled when multiple generic requests are made.

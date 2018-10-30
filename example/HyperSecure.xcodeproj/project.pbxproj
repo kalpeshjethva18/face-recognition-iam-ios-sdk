@@ -28,7 +28,6 @@
 		042D9B9D1F921FEF0085ECD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		042D9B9F1F921FEF0085ECD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0453868E1F99B41D0094978D /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		045F3D12202D9CDB00F967D4 /* HyperSecureSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HyperSecureSDK.framework; sourceTree = "<group>"; };
 		049691A21FAB96580086ED4C /* UserDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDataViewController.swift; sourceTree = "<group>"; };
 		785C131DDB85C3FA14A2EFFB /* Pods_HyperSecure.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HyperSecure.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		78EBE274B7BF9C6E7AACA4E1 /* Pods-HyperSecure.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HyperSecure.release.xcconfig"; path = "Pods/Target Support Files/Pods-HyperSecure/Pods-HyperSecure.release.xcconfig"; sourceTree = "<group>"; };
@@ -50,7 +49,6 @@
 		042D9B871F921FEF0085ECD2 = {
 			isa = PBXGroup;
 			children = (
-				045F3D12202D9CDB00F967D4 /* HyperSecureSDK.framework */,
 				042D9B921F921FEF0085ECD2 /* HyperSecure */,
 				042D9B911F921FEF0085ECD2 /* Products */,
 				044DD75D1FD99632001F685B /* Frameworks */,
@@ -111,7 +109,6 @@
 				042D9B8D1F921FEF0085ECD2 /* Frameworks */,
 				042D9B8E1F921FEF0085ECD2 /* Resources */,
 				8A14711EC7C43DB7E47A5373 /* [CP] Embed Pods Frameworks */,
-				952B82BED83BBDD07BAC95AD /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -204,21 +201,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HyperSecure/Pods-HyperSecure-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		952B82BED83BBDD07BAC95AD /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HyperSecure/Pods-HyperSecure-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -375,7 +357,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = H573M6CV95;
+				DEVELOPMENT_TEAM = 7CEEYYY3J3;
 				ENABLE_BITCODE = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -401,7 +383,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = H573M6CV95;
+				DEVELOPMENT_TEAM = 7CEEYYY3J3;
 				ENABLE_BITCODE = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
