@@ -1,6 +1,12 @@
 #### Version 1.2.0
 - Support moved to Xcode 10.0
 
+#### Version 1.1.2
+
+##### Bugs fixed:
+- Missing bitcode.
+- Compatibility issue with Xcode 9.3. 
+
 #### Version 1.1.1
 
 ##### Bugs fixed:
@@ -21,6 +27,3 @@
 - When onPause is reached after processing has begun, ‘didEndProcessing’ will be called.
 - Default brightness of the camera screen will now be 100%. A method to turn this feature off has been provided.
 - Error codes 623 and 624 added.
-
-
-
