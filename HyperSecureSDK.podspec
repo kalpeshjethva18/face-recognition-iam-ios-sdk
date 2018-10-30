@@ -8,7 +8,10 @@ Pod::Spec.new do |s|
   s.author       = "HyperVerge"
   s.platform     = :ios
   s.ios.deployment_target = "8.0"
-  s.license          = { :type => 'Custom', :file => 'LICENSE' }
+  "license": {
+      "type": "Copyright",
+      "text": "© Copyright 2018 HyperVerge, Inc. All rights reserved."
+    },
   s.source       = { :http => "https://github.com/hyperverge/face-recognition-iam-ios-sdk/blob/master/HyperSecureSDK.zip?raw=true" }
   s.ios.vendored_frameworks = "HyperSecureSDK.framework"
 
